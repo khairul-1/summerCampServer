@@ -1,0 +1,265 @@
+[{
+    "classId": 1,
+    "className": "Football",
+    "classImage": "/images/football.jpg",
+    "instructorName": "John Doe",
+    "instructorImage": "/images/john_doe.jpg",
+    "instructorEmail": "john.doe@gmail.com",
+    "availableSeats": 10,
+    "enrolledStudentCount": 2,
+    "bookedStudentCount": 1,
+    "classPrice": 40,
+    "status": "approved",
+    "feedbackDetails": "Great class, highly recommended!",
+    "enrolledStudents": [
+      {
+        "studentName": "Alice Smith",
+        "studentEmail": "alice.smith@gmail.com"
+      },
+      {
+        "studentName": "Bob Johnson",
+        "studentEmail": "bob.johnson@gmail.com"
+      }
+    ],
+    "classBooked": {
+      "studentName": "Charlie Brown",
+      "studentEmail": "charlie.brown@gmail.com"
+    }
+  },
+  {
+    "classId": 2,
+    "className": "Basketball",
+    "classImage": "/images/basketball.jpg",
+    "instructorName": "Jane Smith",
+    "instructorImage": "/images/jane_smith.jpg",
+    "instructorEmail": "jane.smith@gmail.com",
+    "availableSeats": 8,
+    "enrolledStudentCount": 3,
+    "bookedStudentCount": 2,
+    "classPrice": 35,
+    "status": "approved",
+    "feedbackDetails": "Excellent coaching, had a great time!",
+    "enrolledStudents": [
+      {
+        "studentName": "Eva Davis",
+        "studentEmail": "eva.davis@gmail.com"
+      },
+      {
+        "studentName": "Frank Wilson",
+        "studentEmail": "frank.wilson@gmail.com"
+      },
+      {
+        "studentName": "Grace Thompson",
+        "studentEmail": "grace.thompson@gmail.com"
+      }
+    ],
+    "classBooked": [
+      {
+        "studentName": "Henry Clark",
+        "studentEmail": "henry.clark@gmail.com"
+      },
+      {
+        "studentName": "Isabella Johnson",
+        "studentEmail": "isabella.johnson@gmail.com"
+      }
+    ]
+  },
+  {
+    "classId": 3,
+    "className": "Tennis",
+    "classImage": "/images/tennis.jpg",
+    "instructorName": "Sarah Johnson",
+    "instructorImage": "/images/sarah_johnson.jpg",
+    "instructorEmail": "sarah.johnson@gmail.com",
+    "availableSeats": 6,
+    "enrolledStudentCount": 3,
+    "bookedStudentCount": 2,
+    "classPrice": 25,
+    "status": "approved",
+    "feedbackDetails": "Highly skilled instructor, enjoyed every session!",
+    "enrolledStudents": [
+      {
+        "studentName": "Ivy Moore",
+        "studentEmail": "ivy.moore@gmail.com"
+      },
+      {
+        "studentName": "Jack Anderson",
+        "studentEmail": "jack.anderson@gmail.com"
+      },
+      {
+        "studentName": "Kate Wilson",
+        "studentEmail": "kate.wilson@gmail.com"
+      }
+    ],
+    "classBooked": [
+      {
+        "studentName": "Liam Thompson",
+        "studentEmail": "liam.thompson@gmail.com"
+      },
+      {
+        "studentName": "Mia Davis",
+        "studentEmail": "mia.davis@gmail.com"
+      }
+    ]
+  },
+  {
+    "classId": 4,
+    "className": "Swimming",
+    "classImage": "/images/swimming.jpg",
+    "instructorName": "Michael Brown",
+    "instructorImage": "/images/michael_brown.jpg",
+    "instructorEmail": "michael.brown@gmail.com",
+    "availableSeats": 12,
+    "enrolledStudentCount": 4,
+    "bookedStudentCount": 3,
+    "classPrice": 30,
+    "status": "approved",
+    "feedbackDetails": "Fun and engaging swimming lessons!",
+    "enrolledStudents": [
+      {
+        "studentName": "Noah Wilson",
+        "studentEmail": "noah.wilson@gmail.com"
+      },
+      {
+        "studentName": "Olivia Taylor",
+        "studentEmail": "olivia.taylor@gmail.com"
+      },
+      {
+        "studentName": "Sophia Martin",
+        "studentEmail": "sophia.martin@gmail.com"
+      },
+      {
+        "studentName": "William Johnson",
+        "studentEmail": "william.johnson@gmail.com"
+      }
+    ],
+    "classBooked": [
+      {
+        "studentName": "Oliver Brown",
+        "studentEmail": "oliver.brown@gmail.com"
+      },
+      {
+        "studentName": "Ava Anderson",
+        "studentEmail": "ava.anderson@gmail.com"
+      },
+      {
+        "studentName": "Emma Davis",
+        "studentEmail": "emma.davis@gmail.com"
+      }
+    ]
+  },
+  {
+    "classId": 5,
+    "className": "Yoga",
+    "classImage": "/images/yoga.jpg",
+    "instructorName": "Emily Wilson",
+    "instructorImage": "/images/emily_wilson.jpg",
+    "instructorEmail": "emily.wilson@gmail.com",
+    "availableSeats": 10,
+    "enrolledStudentCount": 5,
+    "bookedStudentCount": 4,
+    "classPrice": 20,
+    "status": "approved",
+    "feedbackDetails": "Relaxing and rejuvenating yoga sessions!",
+    "enrolledStudents": [
+      {
+        "studentName": "Charlotte Anderson",
+        "studentEmail": "charlotte.anderson@gmail.com"
+      },
+      {
+        "studentName": "Henry Davis",
+        "studentEmail": "henry.davis@gmail.com"
+      },
+      {
+        "studentName": "Isabella Wilson",
+        "studentEmail": "isabella.wilson@gmail.com"
+      },
+      {
+        "studentName": "James Taylor",
+        "studentEmail": "james.taylor@gmail.com"
+      },
+      {
+        "studentName": "Olivia Moore",
+        "studentEmail": "olivia.moore@gmail.com"
+      }
+    ],
+    "classBooked": [
+      {
+        "studentName": "Sophia Johnson",
+        "studentEmail": "sophia.johnson@gmail.com"
+      },
+      {
+        "studentName": "William Thompson",
+        "studentEmail": "william.thompson@gmail.com"
+      },
+      {
+        "studentName": "Abigail Martin",
+        "studentEmail": "abigail.martin@gmail.com"
+      },
+      {
+        "studentName": "Ethan Anderson",
+        "studentEmail": "ethan.anderson@gmail.com"
+      }
+    ]
+  },
+  {
+    "classId": 6,
+    "className": "Golf",
+    "classImage": "/images/golf.jpg",
+    "instructorName": "David Wilson",
+    "instructorImage": "/images/david_wilson.jpg",
+    "instructorEmail": "david.wilson@gmail.com",
+    "availableSeats": 8,
+    "enrolledStudentCount": 1,
+    "bookedStudentCount": 0,
+    "classPrice": 45,
+    "status": "approved",
+    "feedbackDetails": "Great class, highly recommended!",
+    "enrolledStudents": [
+      {
+        "studentName": "Alexander Thompson",
+        "studentEmail": "alexander.thompson@gmail.com"
+      }
+    ],
+    "classBooked": []
+  }
+  ,
+  {
+    "classId": 7,
+    "className": "Boxing",
+    "classImage": "/images/boxing.jpg",
+    "instructorName": "Sophia Davis",
+    "instructorImage": "/images/sophia_davis.jpg",
+    "instructorEmail": "sophia.davis@gmail.com",
+    "availableSeats": 10,
+    "enrolledStudentCount": 0,
+    "bookedStudentCount": 0,
+    "classPrice": 30,
+    "status": "pending",
+    "feedbackDetails": "Class request is awaiting approval.",
+    "enrolledStudents": [],
+    "classBooked": []
+  },
+  {
+    "classId": 8,
+    "className": "Volleyball",
+    "classImage": "/images/volleyball.jpg",
+    "instructorName": "Daniel Johnson",
+    "instructorImage": "/images/daniel_johnson.jpg",
+    "instructorEmail": "daniel.johnson@gmail.com",
+    "availableSeats": 5,
+    "enrolledStudentCount": 0,
+    "bookedStudentCount": 0,
+    "classPrice": 25,
+    "status": "pending",
+    "feedbackDetails": "Class request is awaiting approval.",
+    "enrolledStudents": [],
+    "classBooked": []
+  }]
+  
+  
+  
+  
+   
+  
+  
